@@ -1,16 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=ABDELRHMAN%20ELMSAWY&fontSize=38&fontColor=00ff88&fontAlignY=38&desc=CYBERSECURITY%20%7C%20NETWORK%20SECURITY%20%7C%20PENETRATION%20TESTING&descAlignY=61&descSize=13&descColor=d9ebe1&color=050907,09110d&animation=fadeIn" width="100%" alt="Abdelrhman Elmsawy"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ABDELRHMAN%20ELMSAWY&fontSize=42&fontColor=00ff88&fontAlignY=38&desc=NETWORK%20SECURITY%20%7C%20VULNERABILITY%20ASSESSMENT%20%7C%20PENETRATION%20TESTING&descAlignY=62&descSize=14&descColor=d9ebe1&color=050907,09110d&animation=fadeIn" width="100%" alt="Abdelrhman Elmsawy" />
+
+<br>
 
 <a href="https://abdelrhman-elmsawy.github.io/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-00ff88?style=for-the-badge&logo=googlechrome&logoColor=050907" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=googlechrome&logoColor=050907" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/abdelrhman-elmsawy-a6342023b/">
-  <img src="https://img.shields.io/badge/LINKEDIN-00d9ff?style=for-the-badge&logo=linkedin&logoColor=050907" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-00d9ff?style=for-the-badge&logo=linkedin&logoColor=050907" alt="LinkedIn" />
 </a>
 <a href="https://abdelrhman-elmsawy.github.io/cv.pdf">
-  <img src="https://img.shields.io/badge/RESUME-ffd166?style=for-the-badge&logo=adobeacrobatreader&logoColor=050907" alt="Resume"/>
+<img src="https://img.shields.io/badge/Resume-ffd166?style=for-the-badge&logo=adobeacrobatreader&logoColor=050907" alt="Resume" />
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=abdelrhman-elmsawy&label=PROFILE%20VIEWS&color=00ff88&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -18,13 +24,15 @@
 
 ## `> whoami`
 
-> **Abdelrhman Elmsawy** — Computer & Communications Engineering student at Mansoura University, focused on **Cybersecurity, Network Security, and Penetration Testing**.
->
-> I build practical labs, explore security concepts, and turn networking fundamentals into hands-on security skills.
+I’m **Abdelrhman Elmsawy**, a **Communications & Computer Engineering** student at **Mansoura University**, focused on **Networking and Cybersecurity**.
+
+My technical path is built around strong networking fundamentals and practical security work. I’m currently training as a **Vulnerability Analyst & Penetration Tester** through **DEPI**, while developing hands-on experience through network infrastructure, firewall, vulnerability assessment, and penetration testing labs.
+
+> **My focus:** understand how networks work, identify how they can be attacked, and build the skills needed to secure them.
 
 <div align="center">
 
-`NETWORK SECURITY` · `PENETRATION TESTING` · `VULNERABILITY ASSESSMENT` · `ETHICAL HACKING`
+`NETWORKING` · `NETWORK SECURITY` · `VULNERABILITY ASSESSMENT` · `PENETRATION TESTING`
 
 </div>
 
@@ -34,24 +42,59 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Offensive Security
-- Web Application Penetration Testing
-- Network Penetration Testing
-- Vulnerability Assessment
-- Reconnaissance & Enumeration
-- Security Testing Labs
+### 🌐 Networking
+
+- TCP/IP
+- Routing & Switching
+- OSPF
+- VLANs & Subnetting
+- DHCP
+- NAT / PAT
+- Network Infrastructure
+- Network Operations
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Network Security
-- Cisco Networking
-- VLANs & ACLs
-- OSPF & DHCP
-- NAT / PAT
-- SSH, AAA & Network Hardening
+### 🛡️ Network Security
+
+- Firewalls
+- ACLs & Access Control
+- Port Security
+- DHCP Snooping
+- Network Hardening
+- Security Policies
+- Traffic Filtering
+- Vulnerability Assessment
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚔️ Penetration Testing
+
+- Reconnaissance
+- Enumeration
+- Network Pentesting
+- Web Security Fundamentals
+- Vulnerability Assessment
+- Basic Exploitation
+- Security Testing Methodology
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 Security Practice
+
+- Controlled Security Labs
+- Network Discovery
+- Traffic Analysis
+- Security Testing
+- Findings Documentation
+- Remediation Recommendations
 
 </td>
 </tr>
@@ -59,68 +102,94 @@
 
 ---
 
-## `> toolkit`
-
-<div align="center">
+## `> technical_stack`
 
 ### Security & Networking
-<img src="https://skillicons.dev/icons?i=linux,bash,wireshark,docker,nginx&theme=dark" alt="Security tools"/>
 
-### Development
-<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,html,css,git,github&theme=dark" alt="Development tools"/>
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash,wireshark,kali&theme=dark" alt="Security and networking tools" />
+</p>
 
-### Infrastructure & Labs
-<img src="https://skillicons.dev/icons?i=vmware,ubuntu,kali&theme=dark" alt="Infrastructure tools"/>
+**Networking:** TCP/IP · OSPF · VLAN · Subnetting · DHCP · NAT/PAT · ACL · Routing & Switching  
+**Security:** Firewalls · Access Control · Port Security · DHCP Snooping · Vulnerability Assessment  
+**Tools:** Nmap · Wireshark · Burp Suite · Metasploit · Cisco Packet Tracer  
+**Labs:** VMware · GNS3 · EVE-NG · Cisco ASA
 
-</div>
+### Programming & Systems
 
-**Also working with:** Cisco Packet Tracer · GNS3 · EVE-NG · Burp Suite · Nmap · Cisco ASA · Palo Alto · OpenVPN
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,php,mysql,linux,windows,git,github&theme=dark" alt="Programming and systems" />
+</p>
+
+**Programming & Databases:** Python (Basic) · Bash (Basic) · PHP · MySQL  
+**Operating Systems:** Linux · Windows
 
 ---
 
 ## `> featured_work`
 
-### 🌐 Network Security Labs
-Hands-on Cisco labs covering **DHCP, DHCP Relay, OSPF, VLANs, ACLs, NAT/PAT, SSH, AAA, TACACS+, RADIUS, Port Security, DHCP Snooping, ASA CLI, and Zone-Based Firewall**.
+### 🌐 Network Infrastructure Design
 
-### 🛡️ Penetration Testing Practice
-Practical security work across **network and web application testing**, using Linux-based security tooling and controlled lab environments.
+Designed and implemented an enterprise-style network topology using **Cisco Packet Tracer**, applying subnetting, VLAN segmentation, routing, DHCP, OSPF, NAT/PAT, SSH/Telnet, ACLs, Port Security, and DHCP Snooping. Performed connectivity validation and troubleshooting.
 
-### 🤖 FlyRank ML Internship
-Machine-learning internship work covering data exploration, modeling, experimentation, and reproducible project structure.
+### 🛡️ Network Security Implementation
 
-### 💻 Personal Portfolio
-My cybersecurity-focused portfolio with projects, technical skills, training, certifications, and professional links.
+Configured firewall and access-control concepts in a simulated network environment, identified common security threats, implemented basic mitigation strategies, and documented the network design, configurations, and testing results.
+
+### ⚔️ Network Security & Penetration Testing Lab
+
+Built a controlled security lab for **reconnaissance, enumeration, vulnerability assessment, and basic exploitation workflows**. Used **Nmap and Wireshark** for network discovery and traffic analysis, with **Burp Suite and Metasploit** for simulated security testing.
 
 <div align="center">
 
 <a href="https://abdelrhman-elmsawy.github.io/">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-00ff88?style=for-the-badge&logo=github&logoColor=050907" alt="Explore portfolio"/>
+<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-00ff88?style=for-the-badge&logo=github&logoColor=050907" alt="View all projects" />
 </a>
 
 </div>
 
 ---
 
-## `> training`
+## `> training_&_certifications`
 
-- **DEPI — Infrastructure & Security Track** · Vulnerability Analyst & Penetration Tester
-- **NTI — Network Infrastructure Training** · 120 hours · 97% score
-- **NVIDIA Academy — Introduction to Networking**
-- **Palo Alto Networks — Cybersecurity learning**
-- **TryHackMe — Hands-on security practice**
+| Program | Focus | Status / Result |
+|---|---|---|
+| **DEPI — Round 5** | Infrastructure & Security — Vulnerability Analyst & Penetration Tester | Jul 2026 – Dec 2026 · In Progress |
+| **Red Teaming & Ethical Hacking — Udemy** | Information Security, Linux, Network/Web Pentesting, AD Attacks, Social Engineering, Buffer Overflow | 101.5 Hours · In Progress |
+| **Multivendor Firewall Solutions — NTI** | Firewall Deployment, Security Policies, Traffic Filtering, Access Control | Jan–Feb 2026 · 72 Hours · **92%** |
+| **Network Infrastructure — NTI & ITIDA** | Networking Fundamentals, Routing & Switching, Network Infrastructure | Aug–Sep 2025 · 120 Hours · **97%** |
 
 ---
 
-## `> current_status`
+## `> education`
+
+**Bachelor of Science in Engineering — Communications & Computer Engineering**  
+**Faculty of Engineering, Mansoura University**  
+Expected Graduation: **2027** · GPA: **3.06 / 4.00**
+
+---
+
+## `> currently_focused_on`
 
 ```text
-[+] Learning        : Penetration Testing & Network Security
-[+] Building       : Practical security labs & projects
-[+] Environment      : Kali Linux / VMware / Cisco Labs
-[+] Focus            : Offensive Security + Secure Networking
-[+] Portfolio        : abdelrhman-elmsawy.github.io
+[+] Vulnerability Assessment
+[+] Network Penetration Testing
+[+] Web Application Penetration Testing
+[+] Network Security
+[+] Practical Security Labs
+[+] Building & documenting security projects
 ```
+
+---
+
+## `> github_activity`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abdelrhman-elmsawy&show_icons=true&hide_border=true&bg_color=050907&title_color=00ff88&icon_color=00d9ff&text_color=d9ebe1&rank_icon=github" height="170" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhman-elmsawy&layout=compact&hide_border=true&bg_color=050907&title_color=00ff88&text_color=d9ebe1" height="170" alt="Top languages" />
+
+</div>
 
 ---
 
@@ -128,12 +197,12 @@ My cybersecurity-focused portfolio with projects, technical skills, training, ce
 
 <div align="center">
 
-<a href="https://abdelrhman-elmsawy.github.io/">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/abdelrhman-elmsawy-a6342023b/">LinkedIn</a> ·
-<a href="https://www.instagram.com/abdelrhman.elmsawy/">Instagram</a>
+<a href="https://abdelrhman-elmsawy.github.io/">🌐 Portfolio</a> ·
+<a href="https://www.linkedin.com/in/abdelrhman-elmsawy-a6342023b/">💼 LinkedIn</a> ·
+<a href="mailto:abdelrhman.elmsawy@gmail.com">✉️ Email</a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=050907,09110d&animation=fadeIn" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=050907,09110d&animation=fadeIn" width="100%" alt="Footer" />
 
 </div>
