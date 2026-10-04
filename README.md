@@ -11,7 +11,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=abdelrhman-elmsawy&label=PROFILE%20VIEWS&color=00ff88&style=flat-square" alt="Profile views" />
+<code>NETWORKING</code> · <code>NETWORK SECURITY</code> · <code>VULNERABILITY ASSESSMENT</code> · <code>PENETRATION TESTING</code>
 
 </div>
 
@@ -25,15 +25,9 @@ My technical path starts with network infrastructure and extends into **Network 
 
 > **My approach:** understand the infrastructure → identify weaknesses → validate security → document findings → improve the environment.
 
-<div align="center">
-
-`NETWORKING` · `NETWORK SECURITY` · `VULNERABILITY ASSESSMENT` · `PENETRATION TESTING`
-
-</div>
-
 ---
 
-## `> security_focus`
+## `> core_focus`
 
 <table>
 <tr>
@@ -41,28 +35,14 @@ My technical path starts with network infrastructure and extends into **Network 
 
 ### 🌐 Networking
 
-- TCP/IP & Subnetting
-- Routing & Switching
-- OSPF
-- VLANs
-- DHCP / DHCP Relay
-- NAT / PAT
-- Network Infrastructure
-- Network Troubleshooting
+**TCP/IP · Subnetting · Routing & Switching · OSPF · VLANs · DHCP · NAT/PAT**
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛡️ Network Security
 
-- Firewalls
-- ACLs & Access Control
-- Port Security
-- DHCP Snooping
-- Network Hardening
-- Traffic Filtering
-- Security Policies
-- Vulnerability Assessment
+**Firewalls · ACLs · Access Control · Port Security · DHCP Snooping**
 
 </td>
 </tr>
@@ -71,25 +51,14 @@ My technical path starts with network infrastructure and extends into **Network 
 
 ### ⚔️ Penetration Testing
 
-- Reconnaissance
-- Enumeration
-- Network Pentesting
-- Web Application Security
-- Vulnerability Assessment
-- Basic Exploitation
-- Security Testing Methodology
+**Reconnaissance · Enumeration · Network Pentesting · Web Security Fundamentals**
 
 </td>
 <td width="50%" valign="top">
 
-### 🔬 Security Practice
+### 🔎 Assessment
 
-- Controlled Security Labs
-- Network Discovery
-- Traffic Analysis
-- Findings Documentation
-- Remediation Recommendations
-- Practical Security Testing
+**Vulnerability Assessment · Traffic Analysis · Findings Documentation · Remediation**
 
 </td>
 </tr>
@@ -101,45 +70,35 @@ My technical path starts with network infrastructure and extends into **Network 
 
 ### 🛡️ Security & Networking
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,bash,wireshark,kali&theme=dark" alt="Security and networking tools" />
-</p>
-
-**Networking:** TCP/IP · OSPF · VLAN · Subnetting · DHCP · NAT/PAT · ACL · Routing & Switching  
-**Security:** Firewalls · Access Control · Port Security · DHCP Snooping · Vulnerability Assessment  
-**Tools:** Nmap · Wireshark · Burp Suite · Metasploit · Cisco Packet Tracer  
-**Labs:** VMware · GNS3 · EVE-NG · Cisco ASA
+**Networking:** TCP/IP · OSPF · VLAN · Subnetting · DHCP · DHCP Relay · NAT/PAT · Routing & Switching  
+**Security:** Firewalls · ACLs · Access Control · Port Security · DHCP Snooping · Vulnerability Assessment  
+**Tools:** Nmap · Wireshark · Burp Suite · Metasploit · Cisco Packet Tracer · Cisco ASA  
+**Lab Environment:** Kali Linux · VMware · GNS3 · EVE-NG
 
 ### 💻 Programming & Systems
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,bash,php,mysql,linux,windows,git,github&theme=dark" alt="Programming and systems" />
-</p>
 
 **Programming & Databases:** Python (Basic) · Bash (Basic) · PHP · MySQL  
 **Operating Systems:** Linux · Windows
 
 ---
 
-## `> featured_work`
+## `> featured_projects`
 
-### 🌐 Network Infrastructure Design
+### 01 · Network Infrastructure Design
 
 Designed and implemented an enterprise-style network topology using **Cisco Packet Tracer**, applying subnetting, VLAN segmentation, routing, DHCP, OSPF, NAT/PAT, SSH/Telnet, ACLs, Port Security, and DHCP Snooping. Performed connectivity validation and troubleshooting.
 
-### 🛡️ Network Security Implementation
+**Evidence:** [Project Report](https://abdelrhman-elmsawy.github.io/project-1.pdf)
+
+### 02 · Network Security Implementation
 
 Configured firewall and access-control concepts in a simulated network environment, applied security controls, tested connectivity and filtering behavior, and documented configurations and results.
 
-### ⚔️ Network Security & Penetration Testing Lab
+**Evidence:** [Project Report](https://abdelrhman-elmsawy.github.io/project-2.pdf)
+
+### 03 · Network Security & Penetration Testing Lab
 
 Built a controlled security lab for **reconnaissance, enumeration, vulnerability assessment, and basic exploitation workflows**, using **Nmap, Wireshark, Burp Suite, and Metasploit** for practical security testing.
-
-<div align="center">
-
-<a href="https://abdelrhman-elmsawy.github.io/#projects"><img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-00ff88?style=for-the-badge&logo=github&logoColor=050907" alt="View all projects" /></a>
-
-</div>
 
 ---
 
@@ -147,10 +106,10 @@ Built a controlled security lab for **reconnaissance, enumeration, vulnerability
 
 | Program | Focus | Status / Result |
 |---|---|---|
-| **DEPI — Round 5** | Infrastructure & Security — Vulnerability Analyst & Penetration Tester | Jul 2026 – Dec 2026 · In Progress |
-| **Red Teaming & Ethical Hacking — Udemy** | Information Security, Linux, Network/Web Pentesting, AD Attacks, Social Engineering, Buffer Overflow | 101.5 Hours · In Progress |
-| **Multivendor Firewall Solutions — NTI** | Firewall Deployment, Security Policies, Traffic Filtering, Access Control | Jan–Feb 2026 · 72 Hours · **92%** |
-| **Network Infrastructure — NTI & ITIDA** | Networking Fundamentals, Routing & Switching, Network Infrastructure | Aug–Sep 2025 · 120 Hours · **97%** |
+| **DEPI — Round 5** | Infrastructure & Security — Vulnerability Analyst & Penetration Tester | Jul 2026 – Dec 2026 · **In Progress** |
+| **Red Teaming & Ethical Hacking — Udemy** | Information Security, Linux, Network/Web Pentesting, AD Attacks, Social Engineering, Buffer Overflow | **101.5 Hours · In Progress** |
+| **Multivendor Firewall Solutions — NTI** | Firewall Deployment, Security Policies, Traffic Filtering, Access Control | Jan–Feb 2026 · **72 Hours · 92%** |
+| **Network Infrastructure — NTI & ITIDA** | Networking Fundamentals, Routing & Switching, Network Infrastructure | Aug–Sep 2025 · **120 Hours · 97%** |
 
 ---
 
@@ -196,11 +155,11 @@ Expected Graduation: **January 2027** · GPA: **3.06 / 4.00**
 
 ### 🌐 Professional & Technical
 
-<a href="https://abdelrhman-elmsawy.github.io/">🌐 Portfolio</a> ·
-<a href="https://www.linkedin.com/in/abdelrhman-elmsawy">💼 LinkedIn</a> ·
-<a href="https://github.com/abdelrhman-elmsawy">🐙 GitHub</a> ·
-<a href="https://abdelrhman-elmsawy.github.io/cv.pdf">📄 CV</a> ·
-<a href="mailto:abdelrhman.elmsawy@gmail.com">✉️ Email</a>
+<a href="https://abdelrhman-elmsawy.github.io/">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/abdelrhman-elmsawy">LinkedIn</a> ·
+<a href="https://github.com/abdelrhman-elmsawy">GitHub</a> ·
+<a href="https://abdelrhman-elmsawy.github.io/cv.pdf">CV</a> ·
+<a href="mailto:abdelrhman.elmsawy@gmail.com">Email</a>
 
 <br><br>
 
@@ -209,11 +168,8 @@ Expected Graduation: **January 2027** · GPA: **3.06 / 4.00**
 <a href="https://www.facebook.com/abdelrhman.elmsawy">Facebook</a> ·
 <a href="https://www.instagram.com/abdelrhman.elmsawy/">Instagram</a> ·
 <a href="https://x.com/Abd_elrhman2003">X / Twitter</a> ·
-<a href="https://www.tiktok.com/@abdelrhman.elmsawy">TikTok</a>
-
-<br><br>
-
-<a href="https://wa.me/201277177026"><img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=ffffff" alt="WhatsApp" /></a>
+<a href="https://www.tiktok.com/@abdelrhman.elmsawy">TikTok</a> ·
+<a href="https://wa.me/201277177026">WhatsApp</a>
 
 <br><br>
 
