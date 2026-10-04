@@ -82,6 +82,17 @@ My technical path starts with network infrastructure and extends into **Network 
 
 ---
 
+## `> featured_repositories`
+
+| Repository | Purpose |
+|---|---|
+| **[Cybersecurity Portfolio](https://abdelrhman-elmsawy.github.io/)** | Personal portfolio, project evidence, training, CV, and professional profile. |
+| **[GitHub Profile README](https://github.com/abdelrhman-elmsawy/abdelrhman-elmsawy)** | This profile hub and professional technical identity. |
+
+> **Next growth target:** publish more practical security labs and documented networking work as standalone repositories, so the profile evolves from a portfolio page into a stronger evidence-based engineering profile.
+
+---
+
 ## `> featured_projects`
 
 ### 01 · Network Infrastructure Design
