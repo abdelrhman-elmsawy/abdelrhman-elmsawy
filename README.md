@@ -19,7 +19,7 @@
 
 ## `> whoami`
 
-I’m **Abdelrhman Elmsawy**, a **Communications & Computer Engineering** student at **Mansoura University**, building my career around **Networking and Cybersecurity**.
+I’m **Abdelrhman Elmsawy**, focused on **Communications & Computer Engineering**, **Networking**, and **Cybersecurity**.
 
 My technical path starts with network infrastructure and extends into **Network Security, Vulnerability Assessment, and Penetration Testing**. I’m currently developing practical skills through **DEPI Round 5 — Infrastructure & Security**, alongside hands-on labs and documented networking and security projects.
 
@@ -149,8 +149,8 @@ Expected Graduation: **January 2027** · GPA: **3.06 / 4.00**
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=abdelrhman-elmsawy&show_icons=true&hide_border=true&bg_color=050907&title_color=00ff88&icon_color=00d9ff&text_color=d9ebe1&rank_icon=github" height="170" alt="GitHub statistics" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abdelrhman-elmsawy&layout=compact&hide_border=true&bg_color=050907&title_color=00ff88&text_color=d9ebe1" height="170" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=abdelrhman-elmsawy&show_icons=true&hide_border=true&bg_color=050907&title_color=00ff88&icon_color=00d9ff&text_color=d9ebe1&rank_icon=github&cache_seconds=86400" height="170" alt="GitHub statistics" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abdelrhman-elmsawy&layout=compact&hide_border=true&bg_color=050907&title_color=00ff88&text_color=d9ebe1&cache_seconds=86400" height="170" alt="Top languages" />
 
 <br><br>
 
